@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%2F+Data+Engineering;Go+%7C+Python+%7C+Rust+%7C+PostgreSQL;Kafka+%7C+Airflow+%7C+Docker;Building+systems%2C+not+just+code;Developer+tools+%2B+data+pipelines"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%2F+Data+Engineering;Go+%7C+Python+%7C+SQL;Kafka+%7C+Airflow+%7C+Docker+%7C+PostgreSQL/ClickHouse+%7C+DE-tools;Building+systems%2C+not+just+code;Developer+tools+%2B+data+pipelines"
     alt="Typing animation"
   />
 </p>
@@ -79,19 +79,21 @@
 Backend
   ├─ Go
   ├─ Python
-  ├─ PostgreSQL / SQL
-  └─ API design
+  ├─ Java (изучаю)
+  └─ PostgreSQL / SQL
 
 Data Engineering
   ├─ Kafka
   ├─ Airflow
+  ├─ Микросервисы/gPRC
+  ├─ DBT
   ├─ data pipelines
   └─ analytical systems
 
 Infrastructure
   ├─ Docker
   ├─ Linux
-  └─ observability
+  └─ Dev Tools
 
 Engineering
   ├─ architecture
@@ -108,9 +110,13 @@ Engineering
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=airflow,grafana,fastapi,sqlite" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=grafana,fastapi,sqlite" alt="Tools" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+</p>
 ---
 
 ## 🧩 Как я использую AI
@@ -120,8 +126,6 @@ AI для меня — это **инструмент инженера, а не �
 Использую его для:
 
 - исследования технологий и документации;
-- поиска и разбора проблем;
-- архитектурного брейншторма;
 - быстрого прототипирования;
 - анализа больших объёмов информации;
 - ускорения рутинной разработки.
@@ -138,42 +142,29 @@ AI для меня — это **инструмент инженера, а не �
 
 Цель — на практике исследовать построение **data pipelines и распределённых систем**.
 
+Тренируюсь и изучаю новые инструменты Data Engineering на этом проекте. Сейчас постепенно возвращаюсь к нему с интеграцией **Java микросервиса**
+
 ### ☕ SupplyLake
 
 B2B-платформа, соединяющая поставщиков с небольшими заведениями HoReCa и кофейным бизнесом.
 
-Проект находится среди идей, к которым я хочу вернуться уже с более сильным backend/data-опытом.
+Проект находится среди сырых MVP, к которым я хочу вернуться уже с более сильным backend/data-опытом и бизнес-пониманием.
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cheburek4535&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheburek4535&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cheburek4535&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&v=1" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheburek4535&layout=compact&theme=github_dark&hide_border=true&v=1" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cheburek4535&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheburek4535&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cheburek4535&theme=github-compact&hide_border=true"
-    width="95%"
-    alt="Contribution activity graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheburek4535&theme=github-dark&hide_border=true&v=1" width="95%" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -204,7 +195,13 @@ Make it production-ready
 
 <p align="center">
   <a href="https://github.com/cheburek4535">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/niperc999">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:niperc999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
