@@ -13,10 +13,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%2F+Data+Engineering;Go+%7C+Python+%7C+SQL;Kafka+%7C+Airflow+%7C+Docker+%7C+PostgreSQL/ClickHouse+%7C+DE-tools;Building+systems%2C+not+just+code;Developer+tools+%2B+data+pipelines"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%2F+Data+Engineering;Go+%7C+Python+%7C+SQL;Learning+and+practice:+Java+%7C+C%23+%7C+Rust;Kafka+%7C+Airflow+%7C+Docker+%7C+PostgreSQL+%7C+ClickHouse;Developer+tools+%2B+data+pipelines;Building+systems%2C+not+just+code" alt="Typing animation" />
 </p>
 
 <p align="center">
