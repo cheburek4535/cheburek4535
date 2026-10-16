@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%2F+Data+Engineering;Go+%7C+Python+%7C+SQL;Learning+and+practice:+Java+%7C+C%23+%7C+Rust;Kafka+%7C+Airflow+%7C+Docker+%7C+PostgreSQL+%7C+ClickHouse;Developer+tools+%2B+data+pipelines;Building+systems%2C+not+just+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%2F+Data+Engineering;Java+%7C+Go+%7C+Python+%7C+SQL;Learning+and+practice:+Java+%7C+C%23+%7C+Rust;Kafka+%7C+Airflow+%7C+Docker+%7C+PostgreSQL+%7C+ClickHouse;Developer+tools+%2B+data+pipelines;Building+systems%2C+not+just+code" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -76,7 +76,8 @@
 Backend
   ├─ Go
   ├─ Python
-  ├─ Java (изучаю)
+  ├─ Java
+  ├─ Kotlin (изучаю)
   └─ PostgreSQL / SQL
 
 Data Engineering
@@ -103,7 +104,7 @@ Engineering
 ## ⚙️ Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,rust,cs,postgres,docker,kafka,linux,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,java,kotlin,python,rust,cs,postgres,docker,kafka,linux,git,github" alt="Tech stack" />
 </p>
 
 <p align="center">
