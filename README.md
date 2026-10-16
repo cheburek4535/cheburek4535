@@ -134,7 +134,7 @@ AI для меня — это **инструмент инженера, а не �
 
 ## 🔭 Проекты и идеи, к которым хочу вернуться
 
-### 🌊 Data Engineering Platform
+### 🌊 [Data Engineering Platform](https://github.com/cheburek4535/DataEngineerPlatform)
 
 Идея data-платформы в духе **Satisfactory**: данные непрерывно проходят через цепочку источников, Kafka, обработчиков и хранилищ.
 
